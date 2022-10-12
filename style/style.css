@@ -1,0 +1,107 @@
+body {
+    background-color: #899fa5;
+}
+
+.navbar .nav > li > a {
+    line-height: 100px;
+    color: #899fa5;    
+}
+
+.navbar-inverse {
+    background-color: #7f1201;
+}
+
+.navbar-nav, .navbar-right, .navbar-left {
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 2em;
+}
+
+h1 {
+    font-size: 4em;
+    color: #7f1201;
+}
+
+h3 {
+    font-size: 250%;
+    color: #001e26;
+}
+
+.table {
+    width: 60%;
+    text-align: center;
+    margin: auto;
+}
+
+table.borderless td,table.borderless th{
+    border: none !important;
+}
+
+.font {
+    font-size: 2.5em;
+    color: #1e6b7f;
+}
+
+.font2 {
+    font-size: 1.5em;
+    color: #0b2228;
+}
+
+input[type="submit"] {
+    font-size: 20px;
+    color: #0b2228;
+    display: block;
+}
+
+input[type="text"],
+textarea,
+input[type="password"] {
+    background-color: #54686d;
+    border-style: solid;
+    border-color: #54686d;
+    color: white;
+}
+
+input[type="text"]:hover,
+textarea:hover {
+    background-color: #3e4d51;
+    border-style: none;
+    color: white;
+}
+
+legend {
+    font-size: 3em;
+    color: #0b2228;
+    border: none;
+}
+
+.form-group {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+.form-control {
+    background-color: #54686d;
+    border: none;
+    font-size: 1.5em;
+}
+
+.big {
+    font-size: 1.5em;
+}
+
+p {
+    font-size: 1.25em;
+    color: #001e26;
+}
+
+.button-center {
+    display: block;
+    margin: auto;
+}
+
+.footer {
+    text-align: center;
+    font-size: 1em;
+}
